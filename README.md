@@ -27,9 +27,13 @@ React, JavaScript, Fetch API, PokeAPI
 ## Usage
 
 ```bash
+npx create-vite pokemon-ui --template react
+cd pokemon-ui
 npm install
-npm start
+npm run dev
 ```
+The app will open at:
 
+👉 http://localhost:5173
 
 
