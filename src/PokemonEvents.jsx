@@ -1,4 +1,4 @@
-import { use, useState } from "react";
+import { useState } from "react";
 function PokemonEvents(){
     const [inputValue, setInputValue] = useState('');
     const [eventStatus, setEventStatus] = useState('Pokemon Finder');
